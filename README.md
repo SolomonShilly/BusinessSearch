@@ -38,7 +38,5 @@ Simply run the script, and it will:
 ## Installation
 
 1. Clone or download this script.
-2. Run the script using Python 3.x:
-   ```bash
-   python search_script.py
+2. Run businesssearch.py
 
