@@ -1,6 +1,6 @@
 # Business Instagram Account Search Script
 
-This Python script simulates searching for a business Instagram account using two common algorithms: Linear Search and Binary Search. The script randomly selects an Instagram account ID from a list and demonstrates how both search methods work by counting the steps each takes to find the selected account.
+This Python script simulates searching for a business Instagram account using Linear and Binary Search. The script randomly selects an Instagram account ID from a list and demonstrates how both search methods work by counting the steps each takes to find the selected account.
 
 ## Features
 
